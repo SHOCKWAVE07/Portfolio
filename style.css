@@ -101,7 +101,7 @@
 }
 .contact-details {
     padding:160px 0 20px 150px;
-    background-image: url(/images/contact1.jpg);
+    background-image: url("images\contact1.jpg");
     background-size:contain ;
     height:400px;
     margin-top: 20px;
